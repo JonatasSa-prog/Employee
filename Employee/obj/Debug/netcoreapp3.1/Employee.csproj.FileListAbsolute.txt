@@ -1,0 +1,13 @@
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+C:\Users\jonatas.santos\Desktop\Teste3\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
